@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Adam/static/css/main.00aec581.css",
+    "main.js": "/Adam/static/js/main.b4135227.js",
+    "static/media/imu.png": "/Adam/static/media/imu.5a9a80dd1f77d3b95f13.png",
+    "static/media/postman.png": "/Adam/static/media/postman.e087d6030b1aa83511b8.png",
+    "static/media/figma.png": "/Adam/static/media/figma.de9ddc6c2c43c542a17e.png",
+    "static/media/vscode.png": "/Adam/static/media/vscode.9bc6e588b5f2b867a8a4.png",
+    "static/media/webpack.png": "/Adam/static/media/webpack.09a1a1112c577c279435.png",
+    "static/media/npm.png": "/Adam/static/media/npm.0340e1c9e345c6c6648c.png",
+    "static/media/html.png": "/Adam/static/media/html.1d7b133e22ffe4829da6.png",
+    "static/media/Illustrator.png": "/Adam/static/media/Illustrator.6591ecb57cbd8e547270.png",
+    "static/media/skype.png": "/Adam/static/media/skype.6d75d6c3f944b337082d.png",
+    "static/media/zoom.webp": "/Adam/static/media/zoom.216e9d71bb558929175d.webp",
+    "static/media/meet.png": "/Adam/static/media/meet.4c4496d98dcc42fe6b04.png",
+    "static/media/no-sql.png": "/Adam/static/media/no-sql.0090a77e30cd431e1988.png",
+    "static/media/react.png": "/Adam/static/media/react.428839d4924b447d4d50.png",
+    "static/media/bootstrap.png": "/Adam/static/media/bootstrap.dc44a420bbc9f7668242.png",
+    "static/media/Node-Js.png": "/Adam/static/media/Node-Js.ab88bcf9367af9a415c1.png",
+    "static/media/css.png": "/Adam/static/media/css.bd165c2b95efc6e13f9b.png",
+    "static/media/jquery.png": "/Adam/static/media/jquery.fe01f98055d4cf7679cf.png",
+    "static/media/cdt.png": "/Adam/static/media/cdt.63ea0b08428a40724430.png",
+    "static/media/github.png": "/Adam/static/media/github.a5e504bcf8709dc5c267.png",
+    "static/media/javascript.png": "/Adam/static/media/javascript.9d36595219f4b8081d71.png",
+    "static/media/next.webp": "/Adam/static/media/next.864ec59e9c450019ca8a.webp",
+    "index.html": "/Adam/index.html",
+    "main.00aec581.css.map": "/Adam/static/css/main.00aec581.css.map",
+    "main.b4135227.js.map": "/Adam/static/js/main.b4135227.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00aec581.css",
+    "static/js/main.b4135227.js"
+  ]
+}
